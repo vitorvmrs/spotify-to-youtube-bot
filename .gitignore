@@ -134,3 +134,5 @@ dist
 .webpack/
 
 # Optional stylelint cache
+
+.DS_Store
